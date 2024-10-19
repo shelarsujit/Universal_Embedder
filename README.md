@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Universal_Embedder
-=======
 # Universal Data Embedder
 
 This project aims to extract text and metadata from various file formats and web links, generate embeddings, and store them in a vector database.
@@ -18,4 +15,3 @@ This project aims to extract text and metadata from various file formats and web
 ## Usage
 ```bash
 python main.py
->>>>>>> 922986e (Initial Commit for Universal Data Embedder project)
