@@ -1,0 +1,8 @@
+PyMuPDF
+pytube
+beautifulsoup4
+sentence-transformers
+faiss-gpu
+python-pptx
+python-docx
+adobe-pdfservices-sdk
